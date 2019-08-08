@@ -1,0 +1,14 @@
+[
+  "test_submit.py::ManagerDatesTests::test_convert_string_to_date",
+  "test_submit.py::ManagerDatesTests::test_convert_string_to_date_four",
+  "test_submit.py::ManagerDatesTests::test_convert_string_to_date_three",
+  "test_submit.py::ManagerDatesTests::test_convert_string_to_date_two",
+  "test_submit.py::ManagerDatesTests::test_count_days_mounth",
+  "test_submit.py::ManagerDatesTests::test_count_days_mounth_two",
+  "test_submit.py::ManagerDatesTests::test_date_is_valid",
+  "test_submit.py::ManagerDatesTests::test_date_is_valid_three",
+  "test_submit.py::ManagerDatesTests::test_date_is_valid_two",
+  "test_submit.py::ManagerDatesTests::test_date_weekday",
+  "test_submit.py::ManagerDatesTests::test_get_all_dates",
+  "test_submit.py::ManagerDatesTests::test_get_first_monday"
+]
